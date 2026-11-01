@@ -1,0 +1,41 @@
+{
+  "startedAt": "2026-11-01T14:33:00.808Z",
+  "probes": [
+    {
+      "label": "K control, no flashblock_index",
+      "flashblockIndex": null,
+      "submittedAtBlock": 53108561,
+      "maxBlock": 53108841,
+      "submit": "0x015653401ea214bf8e44beb52ceb746340b717c6c1f95fd1b41be7968e8542c2",
+      "hash": "0x015653401ea214bf8e44beb52ceb746340b717c6c1f95fd1b41be7968e8542c2",
+      "outcome": "mined",
+      "status": "0x1",
+      "block": 53108563,
+      "txIndex": 7,
+      "blockTimestampMs": 1793543581400,
+      "slot": 2,
+      "blocksAfterSubmit": 2,
+      "wallSeconds": 0.502
+    },
+    {
+      "label": "A fb=1 nonce N+1",
+      "flashblockIndex": 1,
+      "submittedAtBlock": 53108564,
+      "maxBlock": 53108844,
+      "submit": "0x1256034132d75038b8bf251e9a50fd4e68fe723a4d12b4a2fdea5384eb68f405",
+      "hash": "0x1256034132d75038b8bf251e9a50fd4e68fe723a4d12b4a2fdea5384eb68f405",
+      "outcome": "not-included-before-expiry",
+      "wallSeconds": 57.492
+    },
+    {
+      "label": "B fb=10 nonce N+1",
+      "flashblockIndex": 10,
+      "submittedAtBlock": 53108852,
+      "maxBlock": 53109132,
+      "submit": "0xee2fbf849c1eeab5987ee55786737dd95a81cc1aa57674ddff8ee287ecfdb924",
+      "hash": "0xee2fbf849c1eeab5987ee55786737dd95a81cc1aa57674ddff8ee287ecfdb924",
+      "outcome": "not-included-before-expiry",
+      "wallSeconds": 57.315
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "oracle": "0x87a3742424337a956e740aaD3c1045E14aD10D2F",
+  "demo": "0x8A98BA6C1E8eBBA26b08e56e330b4E1F7d27614C",
+  "startedAt": "2026-11-01T15:19:35Z",
+  "txs": [
+    {
+      "name": "sample1",
+      "hash": "0x1ee5855b89f2fba8b0abc637916bbbe18cff139ce1d19bba1e9e8c9a88a7bb07",
+      "status": "0x1",
+      "block": "0x32a95e8",
+      "gasUsed": "0x1970b",
+      "blockTimestampMs": 1793546376000,
+      "slot": 0
+    },
+    {
+      "name": "sample2",
+      "hash": "0x1a13ecff57a7e280d2940380180bf35358f8d23e909d12d8537ac28aecc7c65e",
+      "status": "0x1",
+      "block": "0x32a9602",
+      "gasUsed": "0x15e0b",
+      "blockTimestampMs": 1793546381200,
+      "slot": 1
+    },
+    {
+      "name": "slot1",
+      "hash": "0x0fcab2dd629183e59fe8ff99ac57eb15583fc39206768c22b81c5b315e5fab56",
+      "status": "0x1",
+      "block": "0x32a960d",
+      "gasUsed": "0x1ed69",
+      "blockTimestampMs": 1793546383400,
+      "slot": 2
+    },
+    {
+      "name": "slot2",
+      "hash": "0x3e3764d5a43537df12854f8af81d7ec055d429a4c90afe774e421801ba614735",
+      "status": "0x1",
+      "block": "0x32a960e",
+      "gasUsed": "0x12505",
+      "blockTimestampMs": 1793546383600,
+      "slot": 3
+    },
+    {
+      "name": "slot3",
+      "hash": "0xd5988e229eeffcf161acbd3145ac8776f6b71cb421f1c6033a05ba186f9c24b0",
+      "status": "0x1",
+      "block": "0x32a960f",
+      "gasUsed": "0x12505",
+      "blockTimestampMs": 1793546383800,
+      "slot": 4
+    },
+    {
+      "name": "slot4",
+      "hash": "0x40746777ef8d5452b4d3ae66ae161232a4c4273fe03ac1b28bc530ed7a0f7a10",
+      "status": "0x1",
+      "block": "0x32a9610",
+      "gasUsed": "0x11245",
+      "blockTimestampMs": 1793546384000,
+      "slot": 0
+    },
+    {
+      "name": "slot5",
+      "hash": "0xed6ca02ca69e5f72886fbd0244d6260268a997c7028816c8cf81fdeea2e330c8",
+      "status": "0x1",
+      "block": "0x32a9611",
+      "gasUsed": "0x167d1",
+      "blockTimestampMs": 1793546384200,
+      "slot": 1
+    },
+    {
+      "name": "compare",
+      "hash": "0x62239fa1150b7819e10d893919283d483de1a6725d309df11a667178ab3a5332",
+      "status": "0x1",
+      "block": "0x32a9622",
+      "gasUsed": "0x9110",
+      "blockTimestampMs": 1793546387600,
+      "slot": 3
+    },
+    {
+      "name": "startTimer",
+      "hash": "0xe031232c92f6625dfe7f952e5905d5c8e7917cc73b1d2760fe021972c04223e2",
+      "status": "0x1",
+      "block": "0x32a9626",
+      "gasUsed": "0x1a419",
+      "blockTimestampMs": 1793546388400,
+      "slot": 2
+    },
+    {
+      "name": "checkBlockTimer",
+      "hash": "0x76652e594933dfa79ef9bd0993c1f3c74d360236b8876a780948d9b7bed44ecb",
+      "status": "0x1",
+      "block": "0x32a9649",
+      "gasUsed": "0xf72a",
+      "blockTimestampMs": 1793546395400,
+      "slot": 2
+    },
+    {
+      "name": "checkTimeTimer",
+      "hash": "0x36fc10cd0a6078cd9c2f3f49ab53338011d156c1c0f9280b006fbff9cd7ce0c9",
+      "status": "0x1",
+      "block": "0x32a975a",
+      "gasUsed": "0xb3be",
+      "blockTimestampMs": 1793546450000,
+      "slot": 0
+    }
+  ],
+  "blocksPerSecond": "5000000",
+  "reinterpret302400": "604800,60480",
+  "slotHistogram": "1 1 1 1 1",
+  "distinctSlotsOfFiveCalls": 5,
+  "timers": {
+    "nominalSeconds": 60,
+    "startBlock": 53122598,
+    "blockTarget": 53122628,
+    "blockTimerElapsedAfterSeconds": 6,
+    "timeTimerFiredAfterSeconds": 61.6
+  }
+}

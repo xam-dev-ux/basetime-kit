@@ -1,0 +1,78 @@
+[
+  {
+    "predicate": "flashblock_index >= 1",
+    "submittedAtBlock": 53112869,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index <= 10",
+    "submittedAtBlock": 53112975,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index <= 1",
+    "submittedAtBlock": 53113081,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index != 1",
+    "submittedAtBlock": 53113187,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index > 0",
+    "submittedAtBlock": 53113292,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index = 2",
+    "submittedAtBlock": 53113397,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index = 3",
+    "submittedAtBlock": 53113502,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index = 4",
+    "submittedAtBlock": 53113607,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index = 5",
+    "submittedAtBlock": 53113713,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index = 6",
+    "submittedAtBlock": 53113818,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index = 9",
+    "submittedAtBlock": 53113923,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index >= 6",
+    "submittedAtBlock": 53114028,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index > 10",
+    "submittedAtBlock": 53114134,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index != 0",
+    "submittedAtBlock": 53114239,
+    "outcome": "not-included"
+  },
+  {
+    "predicate": "flashblock_index < 1",
+    "submittedAtBlock": 53114344,
+    "outcome": "rejected",
+    "error": "flashblock-index predicate at index 1 can never be satisfied by a pooled transaction"
+  }
+]

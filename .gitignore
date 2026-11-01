@@ -1,0 +1,9 @@
+out/
+cache/
+broadcast/
+.env
+.tmp/
+lib/
+
+# first probe run used a gas price below the base fee; discarded as invalid
+.deployments/flashblock-probe-run1-invalid.json

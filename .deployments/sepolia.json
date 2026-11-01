@@ -1,0 +1,13 @@
+{
+  "blockSeenBySimulation": 53120895,
+  "chainId": 84532,
+  "demo": "0x8A98BA6C1E8eBBA26b08e56e330b4E1F7d27614C",
+  "deployer": "0x8F058fE6b568D97f85d517Ac441b52B95722fDDe",
+  "oracle": "0x87a3742424337a956e740aaD3c1045E14aD10D2F",
+  "timestampMsSeenBySimulation": 1793546047800,
+  "oracleTx": "0x12252fac19acde0b86b42cb8c89a5e3bbc8987566ae4d2087cbad045939622cf",
+  "demoTx": "0x6c101bd0568370d6146f3a9b470b5c6084babb4848aa6886ca6c3a4e1ee24b5f",
+  "oracleDeployBlock": 53120939,
+  "demoDeployBlock": 53120939,
+  "oracleDeployBlockTimestampMs": 1793546056600
+}
